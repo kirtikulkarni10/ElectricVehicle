@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kirtikulkarni10/ElectricVehicle.git/static/css/main.f855e6bc.css",
+    "main.js": "/kirtikulkarni10/ElectricVehicle.git/static/js/main.2a35f235.js",
+    "static/js/453.59b8a61b.chunk.js": "/kirtikulkarni10/ElectricVehicle.git/static/js/453.59b8a61b.chunk.js",
+    "static/media/Electric_Vehicle_Population_Data.csv": "/kirtikulkarni10/ElectricVehicle.git/static/media/Electric_Vehicle_Population_Data.5cc979567be1c44ca95a.csv",
+    "static/media/ElectricVehicleIcon.svg": "/kirtikulkarni10/ElectricVehicle.git/static/media/ElectricVehicleIcon.d1653737bc11d4d183a1dd355c38067b.svg",
+    "index.html": "/kirtikulkarni10/ElectricVehicle.git/index.html",
+    "main.f855e6bc.css.map": "/kirtikulkarni10/ElectricVehicle.git/static/css/main.f855e6bc.css.map",
+    "main.2a35f235.js.map": "/kirtikulkarni10/ElectricVehicle.git/static/js/main.2a35f235.js.map",
+    "453.59b8a61b.chunk.js.map": "/kirtikulkarni10/ElectricVehicle.git/static/js/453.59b8a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2a35f235.js"
+  ]
+}
