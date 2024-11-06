@@ -14,7 +14,7 @@ const LineChart = ({data}) => {
           xAxis: {
             categories: country,
             title: {
-                text: 'Year'
+                text: 'Countries'
             }
          },
         yAxis: {
@@ -23,7 +23,7 @@ const LineChart = ({data}) => {
             }
         },
           title: {
-            text: 'Highcharts Funnel3D Chart',
+            text: 'Line chart for electric range of different countries',
             align: 'left'
           },
           // accessibility: {
@@ -48,7 +48,7 @@ const LineChart = ({data}) => {
             }
           },
           series: [{
-            name: 'Unique users',
+            name: 'Electric Range of countries',
             data: result
           }]
       };

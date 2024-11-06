@@ -10,19 +10,13 @@ const AreaChart = ({data}) => {
             type: 'area'
         },
         title: {
-            text: 'Greenhouse gases from Norwegian economic activity',
-            align: 'left'
-        },
-        subtitle: {
-            text: 'Source: ' +
-                '<a href="https://www.ssb.no/en/statbank/table/09288/"' +
-                'target="_blank">SSB</a>',
+            text: 'Area chart for Electric Range of countries',
             align: 'left'
         },
         yAxis: {
             title: {
                 useHTML: true,
-                text: 'Million tonnes CO<sub>2</sub>-equivalents'
+                text: 'Electric Range'
             }
         },
         tooltip: {
@@ -45,7 +39,7 @@ const AreaChart = ({data}) => {
             }
         },
         series: [{
-            name: 'Electric Range',
+            name: 'Year',
             data: result
         }
      ]

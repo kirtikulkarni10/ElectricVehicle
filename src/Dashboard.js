@@ -5,8 +5,7 @@ import Typography from '@mui/material/Typography';
 import Widget from './Widget';
 import LineChart from './LineChart';
 import AreaChart from './AreaChart';
-
-import Map from './Map';
+import TableChart from './TableChart';
 
 
 const Dashboard = (props) => {
@@ -46,7 +45,7 @@ const Dashboard = (props) => {
     <React.Fragment>
      <Box>
       {/* cards */}
-      Vehicle popuation Dashoard
+      <h1> Vehicle popuation Dashoard </h1>
       <Grid
          container
          spacing={2}
@@ -64,8 +63,8 @@ const Dashboard = (props) => {
         <Grid size={{ xs: 12, md: 6 }}>
           <AreaChart data= {props.data}/>
         </Grid>
-        <Grid size={{ xs: 12, md: 6 }}>
-          {/* <Map/> */}
+        <Grid size={{ xs: 12, md: 12 }}>
+          <TableChart data={props.data}/>
         </Grid>
     </Grid>
     </Box>
