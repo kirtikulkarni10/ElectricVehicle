@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ElectricVehicle/static/css/main.f855e6bc.css",
-    "main.js": "/ElectricVehicle/static/js/main.0fd80bb0.js",
+    "main.js": "/ElectricVehicle/static/js/main.c2cfd994.js",
     "static/js/453.59b8a61b.chunk.js": "/ElectricVehicle/static/js/453.59b8a61b.chunk.js",
     "static/media/Electric_Vehicle_Population_Data.csv": "/ElectricVehicle/static/media/Electric_Vehicle_Population_Data.5cc979567be1c44ca95a.csv",
     "static/media/ElectricVehicleIcon.svg": "/ElectricVehicle/static/media/ElectricVehicleIcon.d1653737bc11d4d183a1dd355c38067b.svg",
     "index.html": "/ElectricVehicle/index.html",
     "main.f855e6bc.css.map": "/ElectricVehicle/static/css/main.f855e6bc.css.map",
-    "main.0fd80bb0.js.map": "/ElectricVehicle/static/js/main.0fd80bb0.js.map",
+    "main.c2cfd994.js.map": "/ElectricVehicle/static/js/main.c2cfd994.js.map",
     "453.59b8a61b.chunk.js.map": "/ElectricVehicle/static/js/453.59b8a61b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0fd80bb0.js"
+    "static/js/main.c2cfd994.js"
   ]
 }
